@@ -1,17 +1,38 @@
-# Hey, I’m Divpreet! 👋
+# Hi, I'm Divpreet! 👋
+Aspiring Developer from India, Living in the UAE
 
-I’m a Year 10 student who loves building random stuff with code. I make games, web apps, iOS tools, and some pretty cool projects. Some of my favorites are:
+💻 I build games, web apps, and iOS tools using Python, Swift, SwiftUI, and Svelte. Right now, I’m diving into TypeScript to level up my skills.
 
-*   **Desky app:** An always-on desk helper for all your important info.
-*   **ScurvyScript:** A funny, high-seas themed programming language I’m making. 🏴‍☠️
-*   **QuickBytes:** A dashboard that brings together a bunch of useful stuff in one place.
-*   **HackOS:** A web-based OS I’m working on for fun.
-*   **Hackintosh:** A project where I made macOS run on non-Apple hardware. Yep, I’m that person. 😎
+✨ I study: Python, Swift, SwiftUI, Svelte, TypeScript
 
-Right now, I’m diving into TypeScript and trying to level up my coding skills. The best part about coding for me is that if I can imagine it, I can build it (as long as I don’t break everything first). 🤯
+## About me:
 
-When I’m not coding, I’m watching tech videos or making my own YouTube videos about tech stuff. 📱🎥 Oh, and I’m a big Apple fan. If you are too, we’ll probably get along. 🍏
+😄 **Fun fact:** I’m working on a programming language called ScurvyScript (it’s a little high-seas themed).
 
-Feel free to hit me up if you want to collaborate or just talk about tech. I’m always down for that! 😄
+🔭 **I’m looking to collaborate** on cool projects, ideas, or just chat about tech.
+
+📫 **How to reach me:** Feel free to DM or email!
+
+💬 **Ask me about** web apps, iOS tools, or game development.
+
+## My Projects:
+
+*   **Desky app:** An always-on desk helper for everything you need.
+*   **ScurvyScript:** A fun programming language with a pirate twist. 🏴‍☠️
+*   **QuickBytes:** A dashboard that brings together all your useful info in one place.
+*   **HackOS:** A web-based OS I’m building for fun!
+*   **Hackintosh:** Made macOS run on non-Apple hardware (yes, I’m that person). 😎
+
+## My Stack:
+
+*   **Languages:** Python, Swift, SwiftUI, Svelte, TypeScript
+*   **Tools:** Xcode, VS Code, Git, Docker
+*   **Other:** Working on learning more about web development and TypeScript.
+
+## My Journey:
+
+I’ve been building random projects for fun, learning as I go, and enjoying every bit of the process. Coding has taught me that I can build anything I imagine, as long as I don’t break everything first. 😅
+
+Feel free to check out my repos, and let me know if you want to collaborate or just talk tech!
 
 P.S. The Shrek in my profile pic isn’t me… or is it? 👀
