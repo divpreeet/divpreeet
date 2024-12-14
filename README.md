@@ -25,7 +25,7 @@ Aspiring Developer from India, Living in the UAE
 
 ## My Stack:
 
-*   **Languages:** Python, Swift, SwiftUI, Svelte, TypeScript
+*   **Languages:** Python, Swift, SwiftUI, Svelte, TypeScript, HTML, Javascript, Tailwind
 *   **Tools:** Xcode, VS Code, Git, Docker
 *   **Other:** Working on learning more about web development and TypeScript.
 
