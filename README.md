@@ -7,7 +7,7 @@ Aspiring Developer from India, Living in the UAE
 
 ## About me:
 
-😄 **Fun fact:** I’m working on a programming language called ScurvyScript (it’s a little high-seas themed).
+😄 **Fun fact:** I’m working on a programming language called ScurvyScript (it’s a little pirate themed).
 
 🔭 **I’m looking to collaborate** on cool projects, ideas, or just chat about tech.
 
