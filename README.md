@@ -1,5 +1,6 @@
 # hey, im divpreet
 i build random stuff
+
 i use/study: Python, Swift, SwiftUI, Svelte, TypeScript
 
 ## stuff i made:
