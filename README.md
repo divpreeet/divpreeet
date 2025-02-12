@@ -1,8 +1,5 @@
-# Hi, I'm Divpreet! 👋
-born in India, living in the UAE!
-
+# hey, im divpreet
 i build random stuff
-
 i use/study: Python, Swift, SwiftUI, Svelte, TypeScript
 
 ## stuff i made:
@@ -13,9 +10,6 @@ i use/study: Python, Swift, SwiftUI, Svelte, TypeScript
 *   **HackOS:** A web-based OS I’m building for fun!
 *   **Hackintosh:** Made macOS run on non-Apple hardware (yes, I’m that person). 😎
 
-## what i use:
-*   **Languages:** Python, Swift, SwiftUI, Svelte, TypeScript, HTML, Javascript, Tailwind
-*   **Tools:** Xcode, VS Code, Git, Docker
-*   **Other:** Working on learning more about web development and TypeScript.
+also i make [youtube](https://youtube.com/@bracedshorts) videos
 
 PS, its not me in the pfp, or is it?
